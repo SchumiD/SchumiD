@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SchumiD
-- 👀 I’m interested in VST Programming
-- 🌱 I’m currently learning AngelScript
-- 💞️ I’m looking to collaborate on VST Programming
+- 👀 I’m interested in Blazor
+- 🌱 I’m currently learning everything about Blazor
+- 💞️ I’m looking to collaborate on Blazor programming
 - 📫 How to reach me: schumid@hotmail.com
 
 <!---
